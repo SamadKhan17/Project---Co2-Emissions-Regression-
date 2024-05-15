@@ -1,4 +1,4 @@
-# Project-Regression
+# Project- C02 Emissions (Regression)
 
 Business Objective:
 The fundamental goal here is to model the CO2 emissions as a function of several car engines features.
